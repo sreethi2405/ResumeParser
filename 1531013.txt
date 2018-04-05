@@ -1,0 +1,173 @@
+ 
+
+Hareini​ ​Sreethi​ ​M 
+Objective 
+Aiming​ ​to​ ​achieve​ ​excellence​ ​in​ ​my​ ​career​ ​through​ ​analytical​ ​thinking,​ ​observance​ ​and​ ​perseverance​ ​and​ ​to 
+reach​ ​my​ ​goals​ ​through​ ​effective,​ ​efficient​ ​and​ ​clear​ ​thought​ ​process.  
+
++91​ ​8056576424 
+hareinisreethi05@gmail.com 
+
+Academics 
+M.Sc​ ​Software​ ​Systems​ ​[5​ ​years​ ​Integrated] 
+Coimbatore​ ​Institute​ ​of​ ​Technology 
+Class​ ​XII​ ​(Matric) 
+St.Joseph’s​ ​Matriculation​ ​Hr.​ ​Sec.​ ​School,​ ​Tirupur 
+Class​ ​X​ ​(State) 
+Vidhya​ ​Vikashni​ ​Matriculation​ ​Hr.Sec.School,​ ​Tirupur 
+
+CGPA:​ ​8.33/10​ ​(up​ ​to​ ​4​th​
+
+[2015​ ​-​ ​Present] 
+​ ​semester) 
+[2014​ ​-​ ​2015] 
+94.16% 
+[2012​ ​-​ ​2013] 
+98.00% 
+
+​ ​UI​ ​designer​ ​and​ ​DataBase​ ​manager 
+​ ​Eclipse​ ​IDE 
+
+​ ​This​ ​application​ ​helps​ ​students​ ​for​ ​their​ ​preparation​ ​for​ ​exams.Students​ ​can​ ​create​ ​groups​ ​and 
+
+Project​ ​Work 
+Virtual​ ​Study[On-going] 
+An​ ​android​ ​application​ ​for​ ​exam​ ​preparations 
+Description:​
+they​ ​can​ ​post​ ​their​ ​progress​ ​of​ ​preparation​ ​.One​ ​can​ ​link​ ​the​ ​study​ ​materials​ ​or​ ​key​ ​notes​ ​for​ ​a​ ​subject​ ​and​ ​can 
+also​ ​tutor​ ​others​ ​by​ ​posting​ ​video​ ​lectures. 
+Role:​
+Tools​ ​and​ ​Technologies​ ​used:​
+ 
+Stock​ ​Pinger 
+A​ ​simple​ ​billing​ ​system. 
+Description:​
+the​ ​admins​ ​of​ ​the​ ​system​ ​about​ ​the​ ​inventory​ ​stocks.​ ​The​ ​system​ ​bills​ ​the​ ​purchased​ ​items​ ​and​ ​keeps​ ​track 
+of​ ​expiration​ ​of​ ​goods​ ​in​ ​buffer​ ​stock. 
+Role:​ ​
+​ ​
+​Interface​ ​
+Tools​ ​and​ ​Technologies​ ​used:​Netbeans​ ​IDE,​ ​Mysql 
+
+​ ​A​ ​system​ ​which​ ​aids​ ​the​ ​customers​ ​on​ ​their​ ​purchase​ ​details​ ​through​ ​mails,​ ​also 
+
+​ ​Designer​ ​and​ ​Programmer 
+
+Experience 
+Uniq​ ​Technologies,​ ​Coimbatore 
+Summer​ ​Intern  
+
+donation. 
+
+[​ ​November-December​ ​2017]
+
+● A​ ​twelve​ ​days​ ​internship​ ​on​ ​android​ ​application​ ​development​ ​and​ ​created​ ​a​ ​mini​ ​project​ ​on​ ​Organ 
+
+Tools​ ​and​ ​Technologies​ ​used:​
+
+​ ​Eclipse​ ​IDE,​ ​SQLlite 
+
+● A​ ​twelve​ ​days​ ​internship​ ​on​ ​Big​ ​Data​ ​using​ ​Hadoop​ ​framework​ ​(ongoing) 
+
+Areas​ ​of​ ​Interest 
+
+● Web​ ​development 
+● ​ ​Data​ ​Structures 
+● ​ ​Mobile​ ​App​ ​Development 
+
+Skills 
+
+● Languages:​
+● Frameworks:​ ​
+● Web​ ​languages:​ ​
+● IDEs:​ ​
+● Platforms:​
+
+​ ​C,​ ​C++,​ ​Java,​ ​Python(intermediate) 
+
+​Hadoop(Beginner) 
+
+​HTML,​ ​PHP(intermediate),​ ​CSS,​ ​JavaScript,AngularJS  
+
+​Netbeans,​ ​Eclipse,​ ​MS​ ​Visual​ ​Studio,​ ​Android​ ​Studio 
+
+​ ​Linux,​ ​Windows,​ ​Android 
+
+Co-curricular​ ​activities 
+
+● Business​ ​English​ ​Certification​
+● Participated​ ​in​ ​the​ ​
+
+​IoT​
+
+​ ​from​ ​University​ ​of​ ​Cambridge(Pass​ ​with​ ​merit)​ ​-​ ​Feb​ ​2016 
+
+​ ​workshop​ ​conducted​ ​as​ ​a​ ​part​ ​of​ ​
+
+​ ​
+​SRiSHTi2k17,​ ​
+​a​ ​National​ ​Level​ ​Technical 
+
+● Attended​ ​a​ ​National​ ​Level​ ​Workshop​ ​on​ ​
+
+​R​ ​TOOL​ ​FOR​ ​DATA​ ​MINING​ ​
+
+​ ​and​ ​
+
+​ ​ANGULARJS​ ​
+
+​ ​held​ ​at​ ​Kongu 
+
+● Attended​ ​the​
+
+​ ​Android​ ​Mobile​ ​App​ ​Development​
+
+​ ​workshop​ ​held​ ​during​ ​
+
+​Innoviz’17​
+
+​ ​at​ ​Coimbatore 
+
+Symposium​ ​by​ ​PSG​ ​College​ ​Of​ ​Technology. 
+
+Engineering​ ​College​ ​on​ ​19th​ ​August​ ​2017. 
+
+Institute​ ​of​ ​Technology.  
+
+Roles​ ​&​ ​Extra-curricular​ ​activities 
+
+● Interested​ ​
+● Participated​ ​in​ ​Dramatics​ ​during​ ​school​ ​golden​ ​jubilee​ ​celebrations 
+
+​ ​in​ ​creating​ ​collage​ ​Glass​ ​Painting 
+
+Awards​ ​and​ ​Honors 
+
+● Winner​ ​of​
+● 1st​ ​Runner​ ​up​ ​in​ ​intra-school​ ​
+
+​ ​Essay​ ​writing​
+
+​ ​on​ ​global​ ​warming​ ​(under-17)-2011 
+
+​Culturals​
+
+​ ​(Dramatics)-2014 
+
+Hobbies​ ​and​ ​Interests 
+
+● Modelling​ ​in​ ​maya 
+● Dancing 
+● Cooking 
+
+Site​ ​References 
+
+● LinkedIn:​https://www.linkedin.com/in/hareini-sreethi-292459141  
+● GitHub:​ ​
+● Website:​
+
+​https://github.com/sreethi2405 
+​ ​https://sreethi2405.github.io 
+
+​
+
