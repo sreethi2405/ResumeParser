@@ -1,14 +1,16 @@
 
-import pdftotext
-import getCategory
-import tokenizer
-import gender_guesser
+from Bitgram import pdftotext
+from Bitgram import getCategory
+from Bitgram import tokenizer
+from Bitgram import gender_guesser
+from Bitgram import phonenumber
+
 
 def init():
 
     # input the file name
     filename = input("Enter the PDF Resume Name to Parse(with .pdf extension)")
-    text = pdftotext.convert(filename)
+    text = pdftotext.convert("./TestResume/"+filename)
     fout = open("results.tex", "w")
     fout.write("This document contains the result of parsing\n\\ The data of required attributes is present\n\
     \\title { RESUME PARSING }\n \\begin{document}\n\n")
@@ -16,12 +18,16 @@ def init():
     return text.replace("\xa0", "")
 
 resume = init()
+
+
+
+
 def main(resume):
 
     # have the words as tokens in a list
     tokens = tokenizer.input_file_lines(resume, [])
     word_tokens = tokenizer.input_file_words(resume, [])
-
+    #print("phone{ "+match)
     while '' in tokens:
         tokens.remove('')
     while ' ' in tokens:
@@ -31,6 +37,8 @@ def main(resume):
     email = ""
     print(tokens)
 # code for retrieving the mail id from resume
+
+
 
     for token in word_tokens:
         if "@" in token:
@@ -62,6 +70,8 @@ def main(resume):
 
     print("\nQualification Details :")
     recentqualification = getCategory.getqualification(tokens)
+    phone=phonenumber.getnumber(word_tokens)
+    print("\n Phone:\n"+phone)
     print("\nEmail : ")
     return (email)
 
